@@ -27,7 +27,7 @@ This section describes the files included in this repo and what order you should
 This section provides instructions on how to use the code in this repository:
 
 1. Clone the repository:
-2. Create an anchor folder and a positive folder in the `Images` folder
+2. Create an anchor folder and a positive folder in the `Image` folder
 3. Make the modifications to the `RealProject.py` code then run that
 4. Run the `RPTraining.py` script to train and test the model.
 
