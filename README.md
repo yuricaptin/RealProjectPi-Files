@@ -5,7 +5,7 @@ As I have said in the AlphaPi repository README file, people with darker skin to
 
 The conversion of this model into .tflite format mixes up the input and output tensors and makes it difficult to pinpoint the exact cause of the error. From what I have seen on various github and StackOverflow QA's the rebuild of the model to fit the tflite model when converted is usually recommended. Due to time constraints I was not able to implement that. 
 
-Note: THERE ARE FALSE POSITIVES AND FALSE NEGATIVES WHEN TESTING THE MODEL. DUE TO LACK OF A NVIDIA GPU THAT IS CAPABLE OF EFFICIENTLY TRAINING THE MODEL AND DUE TO THE SMALL DATA SAMPLE SIZE THERE ARE INSTANCES OF THESE OUTCOMES HAPPENING.
+
 
 ## Siamese Neural Network and Training for the Smart Home Security with Facial Recognition using Raspberry Pi
 
